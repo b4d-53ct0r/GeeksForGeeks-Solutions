@@ -8,6 +8,7 @@ Output: 1554
 Explanation: There are two zeroes in 1004
 on replacing all zeroes with "5", the new
 number will be "1554".
+
 #Example 2:
 
 >Input:
